@@ -1,1 +1,1 @@
-# Competitive-Programing
+# CSEC-CPD
